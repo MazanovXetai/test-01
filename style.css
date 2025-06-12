@@ -1,9 +1,3 @@
-@media (max-width: 768px) {
-  .nav-container {
-    flex-direction: column;
-    align-items: center;
-  }
-
   button {
     background-color: blue;
     font-family: 'Times New Roman', Times, serif;
@@ -49,11 +43,6 @@
     color: #ffcc00;
   }
 
-  .sekil-container img {
-    max-width: 80%;
-    height: auto;
-    border-radius: 10px;
-  }
 
   body {
     margin: 0;
